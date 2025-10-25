@@ -126,5 +126,5 @@ Overall Feedback: The resume reflects strong analytical thinking and structured 
 ---
 
 **Author:** Ujjwal
-**Series:** 40 Days of AI Projects — *Day 5: AI Resume Screener (NLP)*
+**Series:** 40 Days of AI Projects — *Day 4: AI Resume Screener (NLP)*
 **License:** MIT
