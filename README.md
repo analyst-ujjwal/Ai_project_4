@@ -1,4 +1,4 @@
-# 🧠 Project 5 — AI Essay Evaluator (Groq + LangGraph)
+# 🧠 Project 4 — AI Essay Evaluator (Groq + LangGraph)
 
 An intelligent essay evaluation system powered by **Groq hardware** and **LangGraph**, designed to assess essays based on coherence, grammar, creativity, and relevance. The system leverages **LLaMA 3** via the `langchain_groq` interface for ultra-fast, low-latency inference — delivering accurate and consistent evaluations in real time.
 
